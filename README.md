@@ -9,6 +9,12 @@
   <img src="https://github.com/user-attachments/assets/b9178ff5-98e2-4327-a0f8-7cfbdb190ebf" width="350" height="350" alt="Inference Scaling Logo" />
 </p>
 
+<p align="center">
+  Paper Link: https://arxiv.org/abs/2510.18905
+</p>
+
+
+
 # Efficient AI Inference
 Efficient AI inference scaling is essential for practical deployment. Instead of relying on static scaling heuristics or simple bivariate trade-offs between performance and compute, we should incorporate multiple factors such as cost, latency, and accuracy. This project models inference scaling as a multi-objective optimization (MOO) problem and simulates it using 3D and 2D space. Below is the sample output:
 
