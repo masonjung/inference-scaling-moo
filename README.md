@@ -2,7 +2,7 @@
 [![arXiv](https://img.shields.io/badge/arXiv-2510.18905-b31b1b.svg)](https://arxiv.org/abs/2510.18905)
 [![Reproducible](https://img.shields.io/badge/Reproducible-Yes-success.svg)](#)
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/yourname/inference-scaling.svg?style=social&label=Star)](https://github.com/yourname/inference-scaling)
+[![Stars](https://img.shields.io/github/stars/masonjung/inference-scaling.svg?style=social&label=Star)](https://github.com/yourname/inference-scaling)
 
 
 <p align="center">
